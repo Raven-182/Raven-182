@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ravneet or Raven</h1>
 <h3 align="center">A passionate software developer from Canada</h3>
 <img align="right" alt="people" width="400" src= "https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
-- 🔭 I’m currently working on **3-D render from scratch**
+- 🔭 I’m currently working on **3-D renderer from scratch**
 
 - 🌱 I’m currently learning **React.js, Python**
 
