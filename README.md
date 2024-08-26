@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Ravneet or Raven</h1>
-<h3 align="center">A passionate software developer from Canada</h3>
+<h1 align="center">Hi, I'm Raven or Ravneet</h1>
+<h3 align="center">A passionate problem solver and lifelong learner</h3>
 <img align="right" alt="people" width="400" src= "https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
-- 🔭 I’m currently working on **3-D renderer from scratch**
-
-- 🌱 I’m currently learning **React.js, Python**
+- I’m currently working on <strong>Lifeline- an ambitious capstone project</strong> <br>
+- I’m currently learning <strong>React, NodeJs, SwiftUI</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
